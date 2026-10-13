@@ -1,0 +1,6 @@
+INFO Application started
+INFO Database connection successful
+WARNING Response time is high
+ERROR Failed to process request
+INFO Retrying request
+ERROR Request failed again
