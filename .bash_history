@@ -100,3 +100,10 @@ grep -n "ERROR" linux-homework/logs/app.log
 grep -c "ERROR" linux-homework/logs/app.log
 tail -n 3 linux-homework/logs/app.log
 wc -l linux-homework/logs/app.log
+pwd
+git init
+git status
+git add .
+git commit -m "First commit"
+git log
+git commit
