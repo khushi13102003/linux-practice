@@ -340,3 +340,55 @@ echo "$PATH"
 printenv
 command -v bash
 cat /etc/os-release
+ssh -i "new.pem" ubuntu@ec2-34-239-127-27.compute-1.amazonaws.com
+history
+git --version
+git config --global user.name "Khushi"
+ls
+git init
+git status
+git commit -a
+git status
+git add file1.txt
+ls
+git add file2.txt
+touch file2.txt
+ls
+touch file3.txt
+ls
+touch file4.txt
+ls
+git add . file5.txt
+touch file5.txt
+ls
+pwd
+ls -la
+git status
+pwd
+ls
+test.sh
+ls
+git init
+echo "Hello Git" > test.sh
+git status
+git add . test.sh
+git commit -a
+git commit -m "First commit"
+git config --global user.name "Khushi"
+ls
+git config --global user.email "you@example.com"
+ls
+git log
+ls
+/
+n/
+git --help
+git --clone
+git --log
+git pull
+git status
+git diff
+git status
+git add .
+git commit -a
+exit
