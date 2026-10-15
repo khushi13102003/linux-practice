@@ -392,3 +392,80 @@ git status
 git add .
 git commit -a
 exit
+pwd
+git --version
+ls
+pwd
+git config --global username "apnacollege-demo"
+git config --global user.name "apnacollege-demo"
+git config --global user.email "student@apnacollege.in"
+git config --list
+git clone "https://github.com/khushi13102003/apnacollege-demo.git"
+cd apnacollege-demo
+ls
+ls -a
+cd ..
+git status
+git add file2.txt
+git status
+git add .
+git status
+git commit -m "Add new paragraph"
+git status
+git commit -a
+git status
+git add .
+git push origin main
+git add
+git add .
+git status
+git add
+git add .
+pwd
+ls -la
+git status
+ls -la apnacollege-demo
+ls -la myproject
+git -C apnacollege-demo status
+git -C myproject status
+pwd
+git status
+git submodule status
+git add .
+git push origin main
+git remote -v
+git remote set-url origin https://github.com/YOUR-USERNAME/linux-practice.git
+git remote add origin https://github.com/YOUR-USERNAME/linux-practice.git
+git remote -v
+git remote set-url origin https://github.com/khushi123/linux-practice.git
+git remote -v
+git push -u origin main
+pwd
+git --version
+echo "# linux-practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khushi13102003/linux-practice.git
+git push -u origin main
+Password for 'https://github.com':
+git config --list
+git config --global --get credential.helper
+cat ~/.git-credentials
+pwd
+echo "# linux-practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khushi13102003/linux-practice.git
+git push -u origin main
+khushi13102003
+echo "# linux-practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khushi13102003/linux-practice.git
+git push -u origin main
